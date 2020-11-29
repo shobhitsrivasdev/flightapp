@@ -4,7 +4,7 @@ A vuejs application
 
 ## Quick Start
 
-Please install vue cli if you dont have it 
+Please install vue cli if you dont have it , clone this git repo
 
 ### Installation
 
